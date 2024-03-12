@@ -2,14 +2,6 @@
 
 A simple program that generates random quotes.
 
-## Table of Contents
-
-- [Description] (#description)
-- [Installation] (#installation)
-- [Usage] (#usage)
-- [Contributing] (#contributing)
-- [License] (#license)
-
 ## Description
 
 This program generates random quotes to provide inspiration, motivation, or entertainment. It uses a collection of quotes and selects one randomly each time it is run.
