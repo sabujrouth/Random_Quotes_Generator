@@ -1,40 +1,39 @@
-# random-quote-generator
-### Treehouse Techdegree Project #1 - Random Quote Generator
+# Random Quotes Generator
 
-In this project, you'll create an app that displays random famous quotes each time a button is clicked. You can display a quote from a famous athlete, politician, or historical figure:
+A simple program that generates random quotes.
 
-"The only thing we have to fear is fear itself." — Franklin Delano Roosevelt.
+## Table of Contents
 
-You'll need to use your knowledge of basic JavaScript syntax, including variables, loops and object literals, to complete this project.
+- [Description] (#description)
+- [Installation] (#installation)
+- [Usage] (#usage)
+- [Contributing] (#contributing)
+- [License] (#license)
 
-This project is a fun and effective way for you to practice fundamental JavaScript skills. It also gives you a simple interactive portfolio piece to show off your understanding of JavaScript. 
+## Description
 
+This program generates random quotes to provide inspiration, motivation, or entertainment. It uses a collection of quotes and selects one randomly each time it is run.
 
-# Project Requirements
+## Installation
 
-### Create Array of Objects
-- [x] Array of objects is named quotes
-- [x] Array contains at least 5 quote objects
-### Quote Object
-- [x] Objects in array include quote and source properties. If known, citation and date properties are present
-### getRandomQuote function
-- [x] Function is named getRandomQuoteand returns a random object from the quotes array
-### printQuote function
-- [x] Function named printQuote calls the randomQuote function
-- [x] Function prints the quote to the page using the template supplied in the project instructions
-### Code comments
-- [x] Comments are included in the code.
+1. Clone the repository:
 
+    ```bash
+    git clone https://github.com/your-username/random-quotes-generator.git
+    ```
 
-# View Project
-[Live Demo]( https://richardjamesward.github.io/JS-Random-Quote-Generator/) of this project for peer review.
+2. Navigate to the project directory:
 
+    ```bash
+    cd random-quotes-generator
+    ```
 
-# Appraiser Comments
-Awesome work, Richard! Your project looks great and after seeing so many of these, I appreciate you changing the styling up.
+3. Install the required dependencies:
 
-Nice job ensuring that your function returns the entire quote object and then adding in those extra features! I added a hint in the individual rubric if you want to try creating a non-repeating randomizer.
+    ```bash
+    npm install
+    ```
 
-You're ready to move on to the next project and get further into JavaScript. Have fun!
+## Usage
 
-Thanks for being a Techdegree student.
+To generate a random quote, run the following command:

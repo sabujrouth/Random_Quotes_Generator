@@ -1,4 +1,3 @@
-
 //Object Array to hold quotes, sources, citaitons and years
 var quotes = [
 	{
@@ -201,10 +200,3 @@ printQuote ();
 
 //Event listener on LoadQuote button to generate new quote		
 document.getElementById("loadQuote").addEventListener("click", printQuote, false);
-
-
-
-
-
-
-	
